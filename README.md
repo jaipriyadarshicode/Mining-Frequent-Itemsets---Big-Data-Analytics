@@ -6,7 +6,4 @@ Big data course project to find frequent itemsets by implementing two efficient 
 
 <B>Support thresholds used:</B> 1%, 5%, 10%.
 
-<B>Study/Experiment results:</B>
-
-<img src="">
-<img src="">
+<B>Study/Experiment results:</B> <I> Please see the uploaded "Experiment Results.pdf" file </I>
