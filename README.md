@@ -1,1 +1,1 @@
-# Mining-Frequent-Itemsets---Big-Data-Analytics
+# Mining Frequent Itemsets - Big Data Analytics
